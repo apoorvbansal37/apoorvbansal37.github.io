@@ -64,7 +64,7 @@ docker run -d \
 ![images for exp 3](./images/image5.png)
 
 ![images for exp 3](./images/image6.png)
-![images for exp 3](./images/imag.png)
+
 
 ### Comparing Image Layers
 
