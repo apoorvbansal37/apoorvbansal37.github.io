@@ -72,7 +72,7 @@ docker run -d -p 8080:80 --name nginx-container nginx
 docker ps
 docker stop <container_id> && docker rm <container_id>
 docker rmi nginx
-```
+``` 
 
 ### Result
 Docker images were successfully pulled, containers executed and lifecycle commands performed. 
