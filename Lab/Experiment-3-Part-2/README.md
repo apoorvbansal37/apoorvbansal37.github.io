@@ -1,7 +1,6 @@
 # Experiment 3 Part-2
 
-## Title: 
-Deploying NGINX Using Different Base Images & Comparing Image Layers
+## Title: Deploying NGINX Using Different Base Images & Comparing Image Layers
 
 This project demonstrates how to deploy **NGINX** containers using different base images and analyze how image size and layers differ between them.
 
