@@ -32,6 +32,7 @@ The table below provides an overview of the experiments included in this reposit
 | [Experiment 1](Lab/Experiment-1/) | VM vs Container – Utilization | Demonstrated that containers are more lightweight and resource-efficient compared to virtual machines |
 | [Experiment 2](Lab/Experiment-2/) | Docker Installation, Configuration, and Running Images | Docker images were successfully pulled, containers executed, and lifecycle commands performed |
 | [Experiment 3](Lab/Experiment-3/) | Deploy NGINX Using Different Base Images & Compare Layers | Deployed NGINX with different base images and compared image size and layers |
+| [Experiment 3 - Part 2](Lab/Experiment-3-Part-2/) | Additional NGINX Deployment & Analysis | Extended deployment with further comparison and testing |
 
 ---
 
