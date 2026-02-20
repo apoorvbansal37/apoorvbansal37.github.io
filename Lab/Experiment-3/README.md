@@ -40,7 +40,7 @@ The application displays the following information:
 mkdir Experiment-3-WebApp
 cd Experiment-3-WebApp
 ```
-![](./images/image1.jpeg)
+![](./images/image1.png)
 
 ### Step 2: Create Flask App (app.py)
 ```bash
@@ -60,7 +60,7 @@ if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
 ```
 
-![](./images/image2.jpeg)
+![](./images/image2.png)
 
 ### Step 3: Add Requirements File
 ```bash
