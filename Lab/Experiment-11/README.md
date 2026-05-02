@@ -165,8 +165,7 @@ Verify:
 ```bash
 docker service ls
 ```
-![images for exp 11](./images/image8.png)
-![images for exp 11](./images/image9.png)
+
 ---
 
 ###  Step 10: Test Self-Healing
@@ -176,9 +175,7 @@ docker ps | grep wordpress
 docker kill <container-id>
 docker service ps wpstack_wordpress
 ```
-![images for exp 11](./images/image10.png)
-![images for exp 11](./images/image11.png)
-![images for exp 11](./images/image12.png)
+
 ---
 
 ###  Step 11: Remove Stack
@@ -186,7 +183,7 @@ docker service ps wpstack_wordpress
 ```bash
 docker stack rm wpstack
 ```
-![images for exp 11](./images/image13.png)
+
 ---
 
 ##  Result
