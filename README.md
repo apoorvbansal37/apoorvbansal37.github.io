@@ -1,5 +1,5 @@
 
-# 🐳 Containerization & DevOps Lab
+# Containerization & DevOps Lab
 
 **Name:** Apoorv Bansal
 **Batch:** CCVT-B1 
@@ -7,7 +7,7 @@
 
 ---
 
-## 📘 About This Repository
+## About This Repository
 
 This repository contains all classroom hands-on exercises and laboratory experiments performed as part of the **Containerization & DevOps Lab**.
 
@@ -15,19 +15,19 @@ The objective of this lab is to understand containerization concepts, Docker fun
 
 ---
 
-## 📌 Classwork Hands-On
+## Classwork Hands-On
 
 Contains guided in-class exercises, demonstrations, and practice tasks aimed at strengthening conceptual understanding.
 
-👉 [Explore Classwork Hands-On](Lab/)
+[Explore Classwork Hands-On](Lab/)
 
 ---
 
-## 🧪 Lab Experiments
+##  Lab Experiments
 
 The table below provides an overview of the experiments included in this repository:
 
-## 🧪 Lab Experiments
+##  Lab Experiments
 
 The table below provides an overview of the experiments included in this repository:
 
@@ -55,4 +55,4 @@ The table below provides an overview of the experiments included in this reposit
 
 ---
 
-⭐ This repository serves as a structured documentation of practical learning in Containerization & DevOps.
+ This repository serves as a structured documentation of practical learning in Containerization & DevOps.
